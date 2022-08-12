@@ -1,6 +1,7 @@
-Hi! I'm `witchpixels` and this is my github (sometimes) mirror account.
+Hi! I'm `witchpixels` I'm an NB (she/they) Software Developer from Canada.
 
-* Most of my read work will be located on [Gitlab](https://gitlab.com/witchpixels)
-* You can also find me on the bird site [@witchpixels](https://twitter.com/witchpixels)
+I work mostly in C# building small games in Godot or dumb little web services.
+
+Most of my read work will be located on [Gitlab](https://gitlab.com/witchpixels)
 
 Thanks for stopping by!
