@@ -1,7 +1,9 @@
-Hi! I'm `witchpixels` I'm an NB (they/them) Software Developer from Canada.
+(🇬🇧 they/them 🇩🇪 es/ihm)
 
-I work mostly in C# building small games in Godot or dumb little web services.
+I'm an non-binary game developer from Canada. I write web services and make small games and tools in Godot, and am a strong believer in open source. 
+Most of my work here will be under the BSD 3 Clause License.
 
-Most of my work will be located on [Gitlab](https://gitlab.com/witchpixels).
-
-Thanks for stopping by!
+**You can find me also on:**
+- [mastodon](https://tech.lgbt/@witchpixels)
+- [cohost](https://cohost.org/witchpixels)
+- [itch.io](https://witch-pixels.itch.io/)
