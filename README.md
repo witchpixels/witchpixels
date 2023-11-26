@@ -4,6 +4,6 @@ I'm an non-binary game developer from Canada. I write web services and make smal
 Most of my work here will be under the BSD 3 Clause License.
 
 **You can find me also on:**
-- [mastodon](https://tech.lgbt/@witchpixels)
+- [mastodon](https://peoplemaking.games/@witchpixels)
 - [cohost](https://cohost.org/witchpixels)
 - [itch.io](https://witch-pixels.itch.io/)
