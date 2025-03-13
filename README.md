@@ -5,5 +5,5 @@ Most of my work here will be under the BSD 3 Clause License.
 
 **You can find me also on:**
 - [mastodon](https://peoplemaking.games/@witchpixels)
-- [cohost](https://cohost.org/witchpixels)
+- [bluesky](https://bsky.app/profile/witchpixels.dev)
 - [itch.io](https://witch-pixels.itch.io/)
